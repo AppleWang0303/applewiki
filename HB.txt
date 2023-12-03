@@ -1,0 +1,3 @@
+<table width="300" height="80">
+　<tr><td align="center">HTML 水平置中</td></tr>
+</table>
